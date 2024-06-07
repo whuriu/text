@@ -1,0 +1,6 @@
+.env
+auth_token.json
+*.exe
+*.bat
+.credentials/ytclient_secret.json
+.credentials/user_cred.json
